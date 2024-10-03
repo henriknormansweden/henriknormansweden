@@ -1,4 +1,5 @@
-## Hi there 👋
+Hej 👋
+Jag heter Henrik och jag pluggar Webbutveckling på Mittuniversitetet.
 
 <!--
 **henriknormansweden/henriknormansweden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
