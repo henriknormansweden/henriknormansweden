@@ -3,6 +3,12 @@ Jag heter _Henrik_ och jag pluggar **Webbutveckling** på [Mittuniversitetet](ww
 
 Just nu gör jag Moment 3 i kursen Intro till programmering i Javascript
 
+* 1
+* 2
+* 3
+* 4
+* 5
+
 <!--
 **henriknormansweden/henriknormansweden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
