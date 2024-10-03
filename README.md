@@ -1,5 +1,5 @@
 # Hej 👋
-Jag heter _Henrik_ och jag pluggar **Webbutveckling** på [Mittuniversitetet](http://wwww.miun.se).
+Jag heter _Henrik_ och jag pluggar **Webbutveckling** på [Mittuniversitetet](http://www.miun.se).
 
 ### Just nu gör jag Moment 3 i kursen Intro till programmering i Javascript
 
